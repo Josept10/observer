@@ -1,0 +1,8 @@
+Dato ingresado: 4
+Dato ingresado: 5
+Dato ingresado: 6
+Dato ingresado: 7
+Dato ingresado: 8
+Dato ingresado: 4
+Dato ingresado: f
+Dato ingresado: d
